@@ -11,7 +11,7 @@ To get the links.<br>Go to Mangafreak.net and search the manga you wanna downloa
 
 
 
-#Side Notes,
+#Side Notes
 
 The program might run into permission error, when it does, empty the pic folder and delete last chapter.
 In the for loop, change the '0' to whatever number chapter is in directory.
