@@ -4,13 +4,13 @@ import requests
 import os
 import re
 
-Last_Chapter=199
-end_folder='Main'
-pic_download_directory=r'C:\Users\Lenovo\Desktop\Test\Main\\'
-chapter_convertor_directory=r"C:\Users\Lenovo\Desktop\Test\Chapters\\"
-Main_Directory=r'C:\Users\Lenovo\Desktop\Test\\'
-link="http://images.mangafreak.net:8080/downloads/Kanojo_Okarishimasu_"
-name_of_manga="Kanojo Okarishimasu Ch "
+Last_Chapter=199 #Just an Example
+end_folder='Main' #End folder of pic_download_directory
+pic_download_directory=r'C:\Users\Lenovo\Desktop\Test\Main\\' #Example , in case of my pc
+chapter_convertor_directory=r"C:\Users\Lenovo\Desktop\Test\Chapters\\" #Example , in case of my pc
+Main_Directory=r'C:\Users\Lenovo\Desktop\Test\\' #Example , in case of my pc
+link="" # For more info, read the readme file bruh.
+name_of_manga="Kanojo Okarishimasu Ch " #Just an example
 image=[]
 im1=[]
 
